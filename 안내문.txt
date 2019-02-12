@@ -1,0 +1,12 @@
+To-do: 사용자이름-id 할당
+
+1) 220.92.64.103 접속
+
+2) 각자 할당받은 id로 접속 (최초 접속시 비밀번호 반드시 입력하고 기억할 것)
+
+3) 새로운 탭에서 다음 링크를 누르면 강의자료 추가됨 (로그아웃하고 링크를 눌렀을경우 아이디와 비번 입력해야함)
+
+http://220.92.64.103/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fralbu85%2Fict_lecture&app=notebook
+https://bit.ly/2IarRgi
+
+4) 노트북만들어서 실제로 실습!
